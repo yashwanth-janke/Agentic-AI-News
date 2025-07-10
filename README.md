@@ -1,4 +1,4 @@
-# Agentic AI News & Chatbot Platform
+# Agentic AI News Summarizer Platform
 
 A modular, agentic AI platform built with LangGraph, LangChain, and Streamlit. It enables users to interact with advanced chatbots, leverage web search tools, and generate AI news summaries (daily, weekly, monthly) using stateful agentic graphs.
 
